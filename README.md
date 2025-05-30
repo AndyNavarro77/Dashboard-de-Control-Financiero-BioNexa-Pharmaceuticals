@@ -1,4 +1,5 @@
-📊 Dashboard de Control Financiero | BioNexa Pharmaceuticals
+📊 Dashboard de Control Financiero | BioNexa Pharmaceuticals.
+
 Este proyecto presenta un panel financiero interactivo diseñado en Microsoft Excel, orientado a optimizar la planificación y el control financiero en la empresa BioNexa Pharmaceuticals. El dashboard permite visualizar de forma clara y dinámica los principales indicadores financieros para una toma de decisiones más ágil y precisa.
 
 
