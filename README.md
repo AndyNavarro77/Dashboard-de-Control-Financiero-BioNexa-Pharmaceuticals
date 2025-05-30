@@ -44,7 +44,8 @@ Seleccioná el mes o rango de fechas desde los filtros.
 
 📬 Contacto
 
-Andrés Navarro
+**Andrés Navarro**  
 
-📧 andresnavarroalvarez15@gmail.com 🌐 Portafolio Web
-🔗 LinkedIn
+📧 andresnavarroalvarez15@gmail.com
+🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
