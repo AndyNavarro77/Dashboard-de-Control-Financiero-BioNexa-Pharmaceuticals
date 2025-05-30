@@ -44,6 +44,7 @@ Seleccioná el mes o rango de fechas desde los filtros.
 
 📬 Contacto
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" /> andresnavarroalvarez15@gmail.com
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" /> LinkedIn
-<img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" alt="Portfolio" width="20" /> Portfolio Web 
+Andrés Navarro
+
+📧 andresnavarroalvarez15@gmail.com 🌐 Portafolio Web
+🔗 LinkedIn
